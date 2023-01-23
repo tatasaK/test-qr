@@ -1,0 +1,44 @@
+.body_style{
+    font-family: 'Outfit',sans-serif;
+    font-style: normal;
+    background-color:#f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.div_style{
+    max-width: 320px;
+    padding: 16px;
+    background-color:  #FFFFFF;
+    box-shadow: 0px 25px 25px #000000;
+    border-radius: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+   
+
+}
+.image_style{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.header{
+   
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    color: #1f314f;
+   
+}
+.paragraph{
+    
+    
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color: #7D889E;
+}
